@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding-Album-Art", "Finding-Album-Art.csproj", "{90AB8CEF-1002-4232-9B8C-CDE9FCF3C3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AB8CEF-1002-4232-9B8C-CDE9FCF3C3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AB8CEF-1002-4232-9B8C-CDE9FCF3C3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AB8CEF-1002-4232-9B8C-CDE9FCF3C3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AB8CEF-1002-4232-9B8C-CDE9FCF3C3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32C058E-A8AE-4C2F-8B5D-E5D875E5E3BE}
+	EndGlobalSection
+EndGlobal
